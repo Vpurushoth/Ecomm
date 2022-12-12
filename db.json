@@ -1,0 +1,173 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 3
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 4
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 5
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": 6
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": 7
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": 8
+    },
+    {
+      "name": "Purushothaman",
+      "password": "12345",
+      "email": "purushoth13@user.com",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "name": "20W PD FOR iPhone",
+      "price": "499",
+      "category": "accessories",
+      "color": "white",
+      "description": "Original 20W PD FOR iPhone 13/13 Pro Max/13 mini/12/12 Mini/12 Pro/12 Pro Max 4 A Mobile Charger",
+      "image": "https://www.jiomart.com/images/product/150x150/rvzrjqgbos/original-20w-pd-for-iphone-13-13-pro-max-13-mini-12-12-mini-12-pro-12-pro-max-4-a-mobile-charger-product-images-orvzrjqgbos-p593225147-0-202207291426.png",
+      "id": 1
+    },
+    {
+      "name": "I phone 14",
+      "price": "100000",
+      "category": "mobile",
+      "color": "black",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 3
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": 7
+    },
+    {
+      "name": "Lenovo IdeaPad 3i 8YIN",
+      "price": "35499",
+      "category": "laptop",
+      "color": "silver",
+      "description": "Lenovo IdeaPad 3i 8YIN Laptop (10th Gen Intel Core i3-10110U/8 GB/1 TB HDD/Intel UHD Graphics/Windows 11/ Full HD), 39.624 cm (15.6 inch)",
+      "image": "https://www.jiomart.com/images/product/150x150/492850232/lenovo-ideapad-3i-8yin-laptop-10th-gen-intel-core-i3-10110u-8-gb-1-tb-hdd-intel-uhd-graphics-windows-11-full-hd-39-624-cm-15-6-inch-digital-o492850232-p591278244-0-202206242008.jpeg",
+      "id": 8
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61+3f5q7T6S._AC_UY327_FMwebp_QL65_.jpg",
+      "name": "realme Buds Wireless 2",
+      "description": "realme Buds Wireless 2 Neo Bluetooth in Ear Earphones with Mic (Black)",
+      "category": "tws",
+      "price": 1499,
+      "id": 9,
+      "color": "black"
+    },
+    {
+      "name": "OnePlus Nord CE 2 Lite",
+      "price": "19999",
+      "category": "Mobile",
+      "color": "blue",
+      "description": "OnePlus Nord CE 2 Lite 5G,128 GB,6 GB RAM,Blue Tide,Mobile Phone",
+      "image": "https://www.jiomart.com/images/product/150x150/492850035/oneplus-nord-ce-2-lite-5g-128-gb-6-gb-ram-blue-tide-mobile-phone-digital-o492850035-p591224603-0-202208112007.png",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "name": "purushoth",
+      "email": "purushoth@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "hyden",
+      "email": "hyden@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "Purushothaman",
+      "email": "purushothdhoni007@gmail.com",
+      "password": "12345",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 3,
+      "id": 8
+    }
+  ],
+  "orders": [
+    {
+      "email": "purushothdhoni007@gmail.com",
+      "address": "1/111 big street pattabiramapuram Tiruttani",
+      "contact": "9159158046",
+      "totalPrice": 50100,
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
